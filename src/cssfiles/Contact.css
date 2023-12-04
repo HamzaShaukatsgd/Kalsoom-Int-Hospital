@@ -1,0 +1,43 @@
+.MainServieds{
+    text-align: center;
+    margin-top: 30px;
+}
+ .headingp{
+    font-size: x-large;
+
+} 
+.headingh2{
+    font-weight: bolder;
+}
+.Heartbeat{
+  text-align: center;
+}
+.Services{
+    text-align: center;
+}
+/* .imageadjust{
+    max-width: 75%;
+    display: inline-block;
+    height: 100px;
+   
+} */
+.ServiceCardlist1{
+    width: 33%;
+}
+.maincard{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.cardsWidth{
+    min-width: 30%;
+    max-width: 30%;
+    min-height: 25vh;
+    max-height: 30vh;
+    
+}
+.maincard1{
+    display: flex;
+    align-items: center;
+    padding: 5px;
+}

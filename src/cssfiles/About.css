@@ -1,0 +1,31 @@
+/* AboutPage.css */
+.about-page-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+    margin-top: 4rem;
+  }
+  
+  .about-page-container h2 {
+    text-align: center;
+    color: #333;
+  }
+  
+  .about-page-container p {
+    margin-bottom: 15px;
+    line-height: 1.5;
+    color: #555;
+  }
+  
+  .about-page-container a {
+    color: #4caf50;
+    text-decoration: none;
+  }
+  
+  .about-page-container a:hover {
+    text-decoration: underline;
+  }

@@ -1,0 +1,64 @@
+/* .container-appointment{
+    width: 90vw;
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+label{
+    display: flex;
+    flex-direction: column  ;
+}
+input{
+    width: 80vw;
+} */
+
+
+
+/* MedicalForm.css */
+.medical-form-container {
+    /* max-width: 80vw; */
+    width: 80vw;
+    margin: 0 auto;
+    margin-top: 3rem;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .medical-form h2 {
+    text-align: center;
+  }
+  
+  .medical-form label {
+    display: block;
+    margin-bottom: 8px;
+  }
+  
+  .medical-form input,
+  .medical-form select,
+  .medical-form textarea {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 16px;
+    box-sizing: border-box;
+  }
+  
+  .medical-form button {
+    background-color: #4caf50;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .medical-form button:hover {
+    background-color: #45a049;
+  }
+  .h2heading{
+    text-align: center;
+  }
+  
