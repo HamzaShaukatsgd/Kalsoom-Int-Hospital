@@ -21,9 +21,9 @@ const Contact = () => {
         <img src={Picture} alt="Heartbeat" />
       </div>
       <div className="Services container">
-        <div className="row">
-        <div className=" col-4  cardsWidth">
-            <Card style={{ width: "18rem" }}>
+        <div className="row ">
+        <div className=" col-4  cardsWidth m-xl-3">
+            <Card style={{ width: "18rem", height:"10rem"}}>
               <div className="maincard">
                 <div className="maincard1 cardsWidth">
                   {/* <Card.Img
@@ -36,15 +36,15 @@ const Contact = () => {
                 <div className="maincard2">
                   <Card.Body>
                     <Card.Title>Address</Card.Title>
-                    <Card.Text>Kulsum Plaza, 2020 Blue Area, Jinnah Avenue, Islamabad, Pakistan</Card.Text>
+                    <Card.Text><address className="fs-0.1">Kulsum Plaza, 2020 Blue Area, Jinnah Avenue, Islamabad, Pakistan</address></Card.Text>
                   </Card.Body>
                 </div>
               </div>
             </Card>
           </div>
 
-          <div className=" col-4  ">
-            <Card style={{ width: "18rem" }}>
+          <div className=" col-4 m-xl-3">
+            <Card style={{ width: "18rem", height:"10rem" }}>
               <div className="maincard">
                 <div className="maincard1 cardsWidth">
                   {/* <Card.Img
@@ -52,7 +52,7 @@ const Contact = () => {
                     className="imageadjust"
                     src="https://media.gettyimages.com/id/724241645/photo/pneumology-eldery-person.jpg?s=612x612&w=0&k=20&c=yp2PDWDaE82MMb_-DB2vajtnKDy-D-pWY_1NXIOoWxo="
                   /> */}
-                  <CiMobile1 size={100}/>
+                  <CiMobile1 size={700}/>
                 </div>
                 <div className="maincard2">
                   <Card.Body>
@@ -64,8 +64,8 @@ const Contact = () => {
             </Card>
           </div>
 
-          <div className=" col-4  ServiceCardlist3">
-            <Card style={{ width: "18rem" }}>
+          <div className=" col-4  ServiceCardlist3 m-xl-3">
+            <Card style={{ width: "18rem", height:"10rem" }}>
               <div className="maincard">
                 <div className="maincard1 cardsWidth">
                   {/* <Card.Img
