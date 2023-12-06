@@ -7,7 +7,7 @@ import Signup from './Pages/Signup'
 import 'mdb-react-ui-kit/dist/css/mdb.min.css';
 import Headers from  "./components/Headers"
 import Footer1 from "./components/Footer1"
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import {  Routes, Route } from "react-router-dom";
 import Contact from './Pages/Contact';
 import Appointment from './Pages/Appointment';
 import About from './Pages/About';
@@ -20,7 +20,7 @@ function App() {
      </div>
      <div className='Mainbody '>
      <Routes>
-        <Route exact path='/' element={<Home />} />
+        <Route exact path='*' element={<Home />} />
         <Route exact path='/login' element={<Login />} />
         <Route exact path='/signup' element={<Signup />} />
         <Route exact path='/contact' element={<Contact />} />
