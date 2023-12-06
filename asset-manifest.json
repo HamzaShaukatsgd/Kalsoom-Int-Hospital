@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Kalsoom-Int-Hospital/static/css/main.91d8f643.css",
-    "main.js": "/Kalsoom-Int-Hospital/static/js/main.507c8bdd.js",
+    "main.js": "/Kalsoom-Int-Hospital/static/js/main.cd57845c.js",
     "static/js/787.76d15729.chunk.js": "/Kalsoom-Int-Hospital/static/js/787.76d15729.chunk.js",
     "static/media/fa-solid-900.ttf": "/Kalsoom-Int-Hospital/static/media/fa-solid-900.4a2cd718d7031b732e76.ttf",
     "static/media/fa-brands-400.ttf": "/Kalsoom-Int-Hospital/static/media/fa-brands-400.150de8eaa454d669c405.ttf",
@@ -15,11 +15,11 @@
     "index.html": "/Kalsoom-Int-Hospital/index.html",
     "static/media/Heartbeats.svg": "/Kalsoom-Int-Hospital/static/media/Heartbeats.4b2e2505c3f8b3b8909334b03b633230.svg",
     "main.91d8f643.css.map": "/Kalsoom-Int-Hospital/static/css/main.91d8f643.css.map",
-    "main.507c8bdd.js.map": "/Kalsoom-Int-Hospital/static/js/main.507c8bdd.js.map",
+    "main.cd57845c.js.map": "/Kalsoom-Int-Hospital/static/js/main.cd57845c.js.map",
     "787.76d15729.chunk.js.map": "/Kalsoom-Int-Hospital/static/js/787.76d15729.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.91d8f643.css",
-    "static/js/main.507c8bdd.js"
+    "static/js/main.cd57845c.js"
   ]
 }
