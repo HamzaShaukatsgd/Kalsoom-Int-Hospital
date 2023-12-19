@@ -15,7 +15,7 @@ const Navbar1 = () => {
     <div>
         {/* Start This Thing */}
 
-    <Navbar bg="light" className='text-white NavMAin'  expand="lg">
+    <Navbar bg="light" className='text-white NavMAin mb-3'  expand="lg">
       <Container fluid>
         <Navbar.Brand href="#"><img src="https://kih.com.pk/wp-content/uploads/2019/01/cropped-kih-logo.png" alt="Logo Web" /></Navbar.Brand>
         <Navbar.Toggle aria-controls="navbarScroll" />
