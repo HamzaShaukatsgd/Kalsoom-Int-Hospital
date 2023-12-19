@@ -155,7 +155,7 @@ const OurServices = () => {
             </Card>
           </div>
         </div>
-        <div className="row " style={{ marginTop: "30px" }}>
+        <div className="row " style={{ marginTop: "30px" }} >
           <div className=" col-4  ServiceCardlist1 height: 40rem;">
            
             <Card style={{ width: "18rem" }} className="ServiceCardlist ServiceCardlist11">
@@ -189,7 +189,7 @@ const OurServices = () => {
               <Card.Body>
                 <Card.Title>General and Laparoscopic Surgery</Card.Title>
                 <Card.Text>
-                The surgical team and anesthetists perform major surgical procedures like laparotomies and thoracotamies. At KIH we have introduced new and most modern of surgical techniques.<span id="dots1">...</span><span id="more1"> Minimally invasive surgery, also known as laparoscopic or keyhole surgery to patients has recently been developed in the field of general surgery with the advancement of technology.</span>
+                The surgical team and anesthetists perform major surgical procedures like laparotomies and thoracotamies. <span id="dots1">...</span><span id="more1"> Minimally invasive surgery, also known as laparoscopic or keyhole surgery to patients has recently been developed in the field of general surgery with the advancement of technology.</span>
                 <br/>
                 <button onClick={myFunction1} id="myBtn1">Read more</button>
                 </Card.Text>
